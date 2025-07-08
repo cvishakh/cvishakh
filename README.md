@@ -1,16 +1,22 @@
 <div align="center">
-  <h1>Hi, I'm Vishakh 👋</h1>
+  <h1>Hi there, I'm Vishakh 👋</h1>
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C7B7&width=435&lines=AI+in+Electromobility+Student;Process+Automation+Engineer;Data+Science+Enthusiast;Tech+Explorer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C7B7&width=435&lines=Masters+Student;Process+Automation+Engineer;Data+Science+Enthusiast" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cvishakh&label=Profile+Views&color=00C7B7&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=cvishakh&label=Profile+Views&color=00C7B7&style=flat" alt="profile visits" />
+  
   <a href="https://linkedin.com/in/cvishakh">
-    <img src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  
+  <a href="https://www.xing.com/profile/Vishakh_Cheruparambath">
+    <img src="https://img.shields.io/badge/Xing-006567?style=flat&logo=xing&logoColor=white" alt="Xing" />
+  </a>
+  
   <a href="https://cvishakh.github.io/">
-    <img src="https://img.shields.io/badge/-Portfolio-00C7B7?style=flat&logo=github" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=flat&logo=github&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -26,12 +32,6 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-### 🤖 AI/ML
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow)
-![CNN](https://img.shields.io/badge/-CNN-grey)
-![SVM](https://img.shields.io/badge/-SVM-black)
 
 ### 📊 Data & Automation
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
@@ -40,57 +40,34 @@
 ![UiPath](https://img.shields.io/badge/-UiPath-FF6600?logo=uipath&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?logo=microsoftpowerautomate&logoColor=white)
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+---
+
+### 🔧 Pinned Project
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cvishakh&repo=gesture_classification_zed2i&theme=dark)](https://github.com/cvishakh/gesture_classification_zed2i)
 
 ---
 
-## 🚀 Projects
-
-### 🔧 Pinned Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cvishakh&repo=dsss-bot&theme=dark)](https://github.com/cvishakh/dsss-bot)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cvishakh&repo=stereo-vision-depth-estimation&theme=dark)](https://github.com/cvishakh/stereo-vision-depth-estimation)
-
----
-
-## 💼 Experience Highlights
+## 💼 Contributions
 
 <details>
-<summary>💼 Siemens Mobility – Working Student</summary>
-
-- Automated repetitive tasks with VBA & SAP GUI scripting, increasing process efficiency.  
-- Developed a Power BI Kanban dashboard for project insights, boosting visibility by 30%.  
-- Integrated Snowflake DB and AI workflows via Power Automate and UiPath.
+<summary>💼 Siemens Mobility – Working Student, Process Automation & Data Analysis</summary>
 </details>
 
 <details>
-<summary>🛩️ Hindustan Aeronautics Ltd. – Project Intern</summary>
-
-- Streamlined product database tracking using Jira and SAP MRO.  
-- Coordinated project workflows across departments.  
+<summary>🛩️ Hindustan Aeronautics Ltd. – Project Management Intern</summary>
 </details>
 
 ---
+## 📚 Academic
 
-## 📚 Education
+- 🎓 **M.Sc. in Electromobility - ACES**  
+  *Friedrich-Alexander-Universität Erlangen-Nürnberg*  
+  *2022 – Present*
 
-| Degree                         | Institution                                       | Timeline       |
-|--------------------------------|---------------------------------------------------|----------------|
-| M.Sc. in Electromobility-ACES | FAU Erlangen-Nürnberg                             | 2022 – Present |
-| B.Tech in Mechanical Engg     | APJ Abdul Kalam Technological University, India   | 2015 – 2019    |
-
----
-
-## 🌐 Languages
-
-![English](https://img.shields.io/badge/English-Fluent-blue)
-![German](https://img.shields.io/badge/German-B1-yellow)
-![Malayalam](https://img.shields.io/badge/Malayalam-Native-green)
-
----
+- 🎓 **B.Tech in Mechanical Engineering**  
+  *APJ Abdul Kalam Technological University, Kerala, India*  
+  *2015 – 2019*
 
 ## ✨ Notes
 
