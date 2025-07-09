@@ -1,7 +1,5 @@
 <div align="center">
   <h1>Hi there, I'm Vishakh 👋</h1>
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C7B7&width=435&lines=Masters+Student;Process+Automation+Engineer;Data+Science+Enthusiast" />
 </div>
 
 <p align="center">
