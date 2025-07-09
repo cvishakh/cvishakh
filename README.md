@@ -34,27 +34,5 @@
 ![UiPath](https://img.shields.io/badge/-UiPath-FF6600?logo=uipath&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?logo=microsoftpowerautomate&logoColor=white)
 
-## 💼 Contributions
-
-**Siemens Mobility**  
-*Working Student – Process Automation & Data Analysis*  
-📍 Erlangen, Germany | 🗓️ 2024 – 2025
-
-**Hindustan Aeronautics Ltd.**  
-*Project Management Intern*  
-📍 Bangalore, India | 🗓️ 2020 – 2021
-
----
-
-## 🎓 Academic
-
-**Friedrich-Alexander-Universität Erlangen-Nürnberg**  
-*M.Sc. in Electromobility – ACES*  
-📍 Erlangen, Germany | 🗓️ 2022 – Present
-
-**APJ Abdul Kalam Technological University**  
-*B.Tech in Mechanical Engineering*  
-📍 Kerala, India | 🗓️ 2015 – 2019
-
 ⭐ *If you find my works meaningful, consider starring my repositories!* ⭐
 
