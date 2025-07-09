@@ -18,8 +18,6 @@
   </a>
 </p>
 
----
-
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming
@@ -38,38 +36,27 @@
 ![UiPath](https://img.shields.io/badge/-UiPath-FF6600?logo=uipath&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?logo=microsoftpowerautomate&logoColor=white)
 
----
-
-### 🔧 Pinned Project
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cvishakh&repo=gesture_classification_zed2i&theme=dark)](https://github.com/cvishakh/gesture_classification_zed2i)
-
----
-
 ## 💼 Contributions
 
-<details>
-<summary>💼 Siemens Mobility – Working Student, Process Automation & Data Analysis</summary>
-</details>
+**Siemens Mobility**  
+*Working Student – Process Automation & Data Analysis*  
+📍 Erlangen, Germany | 🗓️ 2024 – 2025
 
-<details>
-<summary>🛩️ Hindustan Aeronautics Ltd. – Project Management Intern</summary>
-</details>
+**Hindustan Aeronautics Ltd.**  
+*Project Management Intern*  
+📍 Bangalore, India | 🗓️ 2020 – 2021
 
 ---
-## 🎓 Academic Background
 
-### 🧠 M.Sc. in Electromobility – ACES  
+## 🎓 Academic
+
 **Friedrich-Alexander-Universität Erlangen-Nürnberg**  
-📍 Erlangen, Germany &nbsp;&nbsp;|&nbsp;&nbsp;🗓️ *2022 – Present*
+*M.Sc. in Electromobility – ACES*  
+📍 Erlangen, Germany | 🗓️ 2022 – Present
 
----
-
-### 🔧 B.Tech in Mechanical Engineering  
 **APJ Abdul Kalam Technological University**  
-📍 Kerala, India &nbsp;&nbsp;|&nbsp;&nbsp;🗓️ *2015 – 2019*
-
-## ✨ Notes
+*B.Tech in Mechanical Engineering*  
+📍 Kerala, India | 🗓️ 2015 – 2019
 
 ⭐ *If you find my works meaningful, consider starring my repositories!* ⭐
 
