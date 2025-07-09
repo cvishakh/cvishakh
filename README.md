@@ -5,8 +5,6 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cvishakh&label=Profile+Views&color=00C7B7&style=flat" alt="profile visits" />
-  
   <a href="https://linkedin.com/in/cvishakh">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -59,15 +57,17 @@
 </details>
 
 ---
-## 📚 Academic
+## 🎓 Academic Background
 
-- 🎓 **M.Sc. in Electromobility - ACES**  
-  *Friedrich-Alexander-Universität Erlangen-Nürnberg*  
-  *2022 – Present*
+### 🧠 M.Sc. in Electromobility – ACES  
+**Friedrich-Alexander-Universität Erlangen-Nürnberg**  
+📍 Erlangen, Germany &nbsp;&nbsp;|&nbsp;&nbsp;🗓️ *2022 – Present*
 
-- 🎓 **B.Tech in Mechanical Engineering**  
-  *APJ Abdul Kalam Technological University, Kerala, India*  
-  *2015 – 2019*
+---
+
+### 🔧 B.Tech in Mechanical Engineering  
+**APJ Abdul Kalam Technological University**  
+📍 Kerala, India &nbsp;&nbsp;|&nbsp;&nbsp;🗓️ *2015 – 2019*
 
 ## ✨ Notes
 
