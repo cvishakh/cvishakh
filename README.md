@@ -14,25 +14,11 @@
   <a href="https://cvishakh.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=flat&logo=github&logoColor=white" alt="Portfolio" />
   </a>
+  
+  <a href="mailto:vishakh.cheruparambath@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Programming
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
-
-### 📊 Data & Automation
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![VBA](https://img.shields.io/badge/-VBA-1E4C3B?logo=excel&logoColor=white)
-![UiPath](https://img.shields.io/badge/-UiPath-FF6600?logo=uipath&logoColor=white)
-![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?logo=microsoftpowerautomate&logoColor=white)
 
 ⭐ *If you find my works meaningful, consider starring my repositories!* ⭐
 
