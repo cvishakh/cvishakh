@@ -14,11 +14,11 @@
   <a href="https://cvishakh.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=flat&logo=github&logoColor=white" alt="Portfolio" />
   </a>
-  
+
   <a href="mailto:vishakh.cheruparambath@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-⭐ *If you find my works meaningful, consider starring my repositories!* ⭐
+⭐ *If you find my works interesting, consider starring my repositories!* ⭐
 
