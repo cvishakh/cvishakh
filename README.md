@@ -16,9 +16,9 @@
   </a>
 
   <a href="mailto:vishakh.cheruparambath@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
 </p>
 
-⭐ *If you find my works interesting, consider starring my repositories!* ⭐
+*If you find my works interesting, consider giving a ⭐!*
 
