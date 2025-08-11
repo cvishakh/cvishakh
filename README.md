@@ -20,5 +20,4 @@
   </a>
 </p>
 
-*If you find my works interesting, consider giving a star*
 
